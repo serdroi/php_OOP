@@ -4,3 +4,6 @@ Adapter is a structural design pattern that allows objects with incompatible int
 Мост — это структурный паттерн, который разделяет бизнес-логику или большой класс на несколько отдельных иерархий, которые потом можно развивать отдельно друг от друга.
 Bridge is a structural design pattern that divides business logic or huge class into separate class hierarchies that can be developed independently.
 
+Компоновщик — это структурный паттерн, который позволяет создавать дерево объектов и работать с ним так же, как и с единичным объектом.
+Composite is a structural design pattern that allows composing objects into a tree-like structure and work with the it as if it was a singular object.
+
