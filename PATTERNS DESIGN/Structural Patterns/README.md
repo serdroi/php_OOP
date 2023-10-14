@@ -7,3 +7,6 @@ Bridge is a structural design pattern that divides business logic or huge class 
 Компоновщик — это структурный паттерн, который позволяет создавать дерево объектов и работать с ним так же, как и с единичным объектом.
 Composite is a structural design pattern that allows composing objects into a tree-like structure and work with the it as if it was a singular object.
 
+Декоратор — это структурный паттерн, который позволяет добавлять объектам новые поведения на лету, помещая их в объекты-обёртки.
+Decorator is a structural pattern that allows adding new behaviors to objects dynamically by placing them inside special wrapper objects, called decorators.
+
