@@ -1,4 +1,4 @@
-Классификация паттернов
+***Классификация паттернов***
 
 Паттерны отличаются по уровню сложности, детализации и охвата проектируемой системы. Проводя аналогию со строительством, вы можете повысить безопасность перекрёстка, поставив светофор, а можете заменить перекрёсток целой автомобильной развязкой с подземными переходами.
 
@@ -8,12 +8,17 @@
 
 Кроме того, паттерны отличаются и предназначением. Будут рассмотрены три основные группы паттернов:
 
-Порождающие паттерны 
+***Порождающие паттерны***
 беспокоятся о гибком создании объектов без внесения в программу лишних зависимостей.
+***Creational design patterns***
+provide various object creation mechanisms, which increase flexibility and reuse of existing code.
 
-Структурные паттерны 
+***Структурные паттерны*** 
 показывают различные способы построения связей между объектами.
+***Structural design patterns*** 
+explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
-Поведенческие паттерны 
+***Поведенческие паттерны*** 
 заботятся об эффективной коммуникации между объектами.
-
+***Behavioral design patterns*** 
+are concerned with algorithms and the assignment of responsibilities between objects.
