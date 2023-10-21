@@ -13,3 +13,6 @@
 ***Фасад*** — это структурный паттерн проектирования, который предоставляет простой интерфейс к сложной системе классов, библиотеке или фреймворку.\
 ***Facade*** is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
 
+***Легковес*** — это структурный паттерн проектирования, который позволяет вместить бóльшее количество объектов в отведённую оперативную память. Легковес экономит память, разделяя общее состояние объектов между собой, вместо хранения одинаковых данных в каждом объекте.\
+***Flyweight*** is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object.
+
